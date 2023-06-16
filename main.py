@@ -1,4 +1,5 @@
 def main():
+    
     print("Hello word")
     print('CS7: Introduction to Computer Programming')
 
@@ -6,4 +7,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#Assingment 0-1 Andres Briceno
+#Assingment 0-1 Andres Briceno H
