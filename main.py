@@ -1,6 +1,6 @@
 def main():
     
-    print("Hello word")
+    print("Hello World")
     print('CS7: Introduction to Computer Programming')
 
 
